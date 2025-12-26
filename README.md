@@ -28,8 +28,6 @@ A deep learning project for binary image classification of cats and dogs using t
 
 This project implements a binary image classifier for cats and dogs using transfer learning. The model is based on MobileNet, a lightweight deep learning architecture pre-trained on ImageNet, fine-tuned for the specific task of classifying cats and dogs.
 
-The project achieves **97.25% accuracy** on the test set, exceeding the 95% threshold required for the highest grade.
-
 ## Features
 
 - ✅ Transfer learning with MobileNet pre-trained model
@@ -186,8 +184,6 @@ The notebook includes visualization of:
 ## Обзор
 
 Этот проект реализует бинарный классификатор изображений кошек и собак с использованием трансферного обучения. Модель основана на MobileNet — легковесной архитектуре глубокого обучения, предобученной на ImageNet и дообученной для конкретной задачи классификации кошек и собак.
-
-Проект достигает **97.25% точности** на тестовой выборке, превышая порог в 95%, необходимый для получения высшей оценки.
 
 ## Особенности
 
